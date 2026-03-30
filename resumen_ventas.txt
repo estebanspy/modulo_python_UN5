@@ -1,0 +1,10 @@
+RESUMEN DE VENTAS POR PRODUCTO
+========================================
+Producto,Total vendido
+----------------------------------------
+Alfombrilla XXL,53
+Auriculares Bluetooth,46
+Cable HDMI,73
+Monitor 4K,35
+Teclado Mecánico,38
+Webcam HD,46
